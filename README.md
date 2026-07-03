@@ -3,7 +3,7 @@
 🎓 Estudiante de Tercer año en la Tecnicatura en Desarrollo de Software del ISPC  
 💻 Desarrollador Full Stack con formación en el ISPC. Trabajo con tecnologías como Angular, Django y SQL, y tengo experiencia construyendo proyectos web reales de punta a punta.  
 📍 Córdoba, Argentina  
-🌱 Actualmente Desarrollando: **SGMB** (Sistema de Gestión de Mesas para Bares) — app en tiempo real con Django Channels + Angular + Docker.
+🌱 Actualmente Desarrollando: **SGMB** (Sistema de Gestión de Mesas para Bares) — app en tiempo real con Django Channels + Angular + Docker. 
 🟢 Disponible para oportunidades como Full Stack Developer Jr.
 ---
 ### ⚙️ Stack
@@ -20,9 +20,11 @@
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 ![DRF](https://img.shields.io/badge/Django%20REST%20Framework-A30000?style=for-the-badge&logo=django&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
  
 ---
