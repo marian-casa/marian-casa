@@ -1,10 +1,10 @@
 # 👋 ¡Hola! Soy Mariano Casarino
 
-🎓 Estudiante de Tecnicatura en Desarrollo de Software, en el ISPC  
-💻 Apasionado por el desarrollo Frontend y soluciones creativas  
+🎓 Estudiante de Tercer año en la Tecnicatura en Desarrollo de Software del ISPC  
+💻 Desarrollador Full Stack con formación en el ISPC. Trabajo con tecnologías como Angular, Django y SQL, y tengo experiencia construyendo proyectos web reales de punta a punta. 
 📍 Córdoba, Argentina  
-🌱 Actualmente aprendiendo: Linux, Typescirpt y Angular  
-⚙️ Stack: HTML, CSS, SASS, Boostrap, JavaScript, React, Python, MySql, Git y Github
+🌱 Actualmente Desarrollando: Sistema de Gestion de Mesas para bares (SGMB)   
+⚙️ Stack: HTML, CSS, Boostrap, JavaScript, Typescript, React, Angular, Python, Django, Django Rest Framework (DRF), Api Rest, MySQL, PostgreSQL, Postman, Git y Github
 
 ---
 
@@ -13,8 +13,6 @@
 🔹 [Portafolio Profesional](https://github.com/marian-casa/Portafolio)  
 Sitio web personal responsive creado con HTML, CSS y Boostrap.
 
-🔹 [Sistema de gestión de espacios compartidos](https://github.com/marian-casa/Zenbyte-404)  
-Proyecto colaborativo para la gestión de espacios compartidos.
 
 🔹 [JS Proyecto Final](https://github.com/marian-casa/JS-ProyectoFinal-Casarino)  
 App Ecommerce interactiva desarrollada con HTML, CSS, Boostrap Y JavaScript.
