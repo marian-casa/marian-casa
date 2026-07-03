@@ -53,8 +53,10 @@ Landing page de e-commerce para teclados mecánicos, con carrusel de productos d
 `HTML` `CSS` `SASS` `Bootstrap`
 
 ---
+<!-- 
 ![Mariano's GitHub stats](https://github-readme-stats.vercel.app/api?username=marian-casa&show_icons=true&theme=dark&hide_border=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marian-casa&layout=compact&theme=dark&hide_border=true)
+-->
 ---
 ## 📫 Contacto
 
