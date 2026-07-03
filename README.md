@@ -3,8 +3,8 @@
 🎓 Estudiante de Tercer año en la Tecnicatura en Desarrollo de Software del ISPC  
 💻 Desarrollador Full Stack con formación en el ISPC. Trabajo con tecnologías como Angular, Django y SQL, y tengo experiencia construyendo proyectos web reales de punta a punta.  
 📍 Córdoba, Argentina  
-🌱 Actualmente Desarrollando: **SGMB** (Sistema de Gestión de Mesas para Bares) — app en tiempo real con Django Channels + Angular + Docker. 
-🟢 Disponible para oportunidades como Full Stack Developer Jr.
+🌱 Actualmente Desarrollando: **SGMB** (Sistema de Gestión de Mesas para Bares) — app en tiempo real con Django Channels + Angular + Docker.    
+🟢 Disponible para oportunidades como Full Stack Developer Jr.     
 ---
 ### ⚙️ Stack
  
@@ -23,9 +23,10 @@
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+
  
 ---
 
@@ -35,15 +36,15 @@
 Sistema de gestión en tiempo real para bares, desarrollado en equipo (OpenCode). Angular + Django REST Framework + Django Channels (WebSockets) + base de datos híbrida PostgreSQL/MongoDB, todo dockerizado.
 `Angular` `Django` `DRF` `WebSockets` `PostgreSQL` `MongoDB` `Docker`
 
-**🔐 [Sistema de Autenticación con Recuperación OTP] (https://github.com/marian-casa/DesafioTecnico.git)**
+**🔐 [Sistema de Autenticación con Recuperación OTP](https://github.com/marian-casa/DesafioTecnico.git)**
 Sistema completo de autenticación (login, registro y recuperación de contraseña por OTP) con backend en DRF y frontend en Angular 21, UI con diseño glassmorphism.
 `Django REST Framework` `Angular` `Auth` `OTP`
 
-**🌐 [Portafolio Profesional] (https://github.com/marian-casa/Portafolio.git)**
+**🌐 [Portafolio Profesional](https://github.com/marian-casa/Portafolio.git)**
 Sitio web personal responsive.
 `HTML` `CSS` `Bootstrap`
 
-**🏋️ [GymFusion] (https://github.com/marian-casa/JS-ProyectoFinal-Casarino.git)**
+**🏋️ [GymFusion](https://github.com/marian-casa/JS-ProyectoFinal-Casarino.git)**
 E-commerce con manejo del DOM, de productos relacionados al gimnasio (suplementos, máquinas, pesas rusas, remeras), con manejo simple de carrito de compras.
 `HTML` `CSS` `Bootstrap` `Javascript`
 
