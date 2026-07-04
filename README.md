@@ -63,7 +63,7 @@ Landing page de e-commerce para teclados mecánicos, con carrusel de productos d
 - 📧 [mariano.e.casarino@gmail.com](mailto:mariano.e.casarino@gmail.com)
 - 🌐 [Mi portafolio](https://portafolio-mariano-casarino.netlify.app/)
 - 💼 [LinkedIn](https://www.linkedin.com/in/mariano-casarino-7b9100247)
-- 📄 [Descargar CV (PDF)](https://drive.google.com/file/d/1nDdaIq2aEzOdNJ7-MNa6Y1_R716p1lF8/view?usp=sharing)
+- 📄 [Descargar CV (PDF)](https://drive.google.com/file/d/1mn_hSB_PvQApBjv2SFOclXAhUM35LkIL/view?usp=sharing)
 
 <!--
 **marian-casa/marian-casa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
