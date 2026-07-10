@@ -1,10 +1,10 @@
 # 👋 ¡Hola! Soy Mariano Casarino
 
 🎓 Estudiante de Tercer año en la Tecnicatura en Desarrollo de Software del ISPC  
-💻 Desarrollador Full Stack con formación en el ISPC. Trabajo con tecnologías como Angular, Django y SQL, y tengo experiencia construyendo proyectos web reales de punta a punta.  
+Desarrollador Full Stack con formación en el ISPC. Trabajo con tecnologías como Angular, Django y SQL, y tengo experiencia construyendo proyectos web reales de punta a punta.  
 📍 Córdoba, Argentina  
-🌱 Actualmente Desarrollando: **SGMB** (Sistema de Gestión de Mesas para Bares) — app en tiempo real con Django Channels + Angular + Docker.    
-🟢 Disponible para oportunidades como Full Stack Developer Jr.     
+Actualmente Desarrollando: **SGMB** (Sistema de Gestión de Mesas para Bares) — app en tiempo real con Django Channels + Angular + Docker. Y **KmSplit** - app mobile-first, creada para gestionar el reparto justo del gasto de combustible en autos compartidos.         
+Disponible para oportunidades como Full Stack Developer Jr.     
 ---
 ### ⚙️ Stack
  
