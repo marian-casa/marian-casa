@@ -2,7 +2,7 @@
 
 Desarrollador Full Stack Jr con formación en el ISPC. Trabajo con tecnologías como Angular, React, Django y PostgreSQL, y tengo experiencia construyendo proyectos web reales de punta a punta.
 
-🎓 Estudiante de Tercer año en la Tecnicatura en Desarrollo de Software del ISPC
+🎓 Estudiante de Tercer año en la Tecnicatura en Desarrollo de Software del ISPC      
 📍 Córdoba, Argentina
 
 Actualmente desarrollando:
